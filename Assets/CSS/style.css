@@ -48,9 +48,9 @@ form{
 }
 
 #proyectos img{
-    height: 150px; /* Altura fija */
-    object-fit: cover; /* Ajusta la imagen dentro del contenedor */
-    width: 100%; /* Mantiene la imagen responsiva */
+    height: 150px;
+    object-fit: cover;
+    width: 100%;
 }
 
 #proyectos a{
